@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Master Suite">
+  <suite-files>
+	  <suite-file path="C:\Users\ADMIN\eclipse-workspace\Maven_Code\First_Script.xml"></suite-file>
+	  <suite-file path="C:\Users\ADMIN\eclipse-workspace\Maven_Code\Second_Script.xml"></suite-file>
+  </suite-files>
+</suite> <!-- Suite -->
